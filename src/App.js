@@ -23,11 +23,99 @@ function App() {
        </div>
 
     </div>
-    <div className='cards'>
-       
-    </div>
-    <footer>
 
+
+    <div className='cards'>
+
+
+       <div className="card">
+       <img src="https://i.ibb.co/vBxhr5N/20220513-074332.jpg" alt="20220513-074332" border="0" />
+       <div className="border">
+         <h1>Self Beaty </h1>
+         <p>when you reach your inner-self beaty you will live longer</p>
+         </div>
+       </div>
+
+
+       <div className="card">
+       <img src="https://i.ibb.co/YRgvKcd/20220513-114936.jpg" alt="20220513-114936" border="0" />
+       <div className="border">
+         <h1>Self Beaty </h1>
+         <p>when you reach your inner-self beaty you will live longer</p>
+         </div>
+       </div>
+
+
+
+       <div className="card">
+      
+      <img src="https://i.ibb.co/TkHf3WY/Green-With-Gold-Speckles-Big.png" alt="Green-With-Gold-Speckles-Big" border="0"></img>
+       <div className="border">
+         <h1>Self Beaty </h1>
+         <p>when you reach your inner-self beaty you will live longer</p>
+         </div>
+       </div>
+
+    </div>
+
+
+    <footer>
+      <div className="col1">
+      <a href="#">
+        item1
+      </a>
+      <a href="#">
+        item2
+      </a>
+      <a href="#">
+        item3
+      </a>
+      <a href="#">
+        item4
+      </a>
+      </div>
+      <div className="col2">
+      <a href="#">
+        item1
+      </a>
+      <a href="#">
+        item2
+      </a>
+      <a href="#">
+        item3
+      </a>
+      <a href="#">
+        item4
+      </a>
+      </div>
+      <div className="col3">
+      <a href="#">
+        item1
+      </a>
+      <a href="#">
+        item2
+      </a>
+      <a href="#">
+        item3
+      </a>
+      <a href="#">
+        item4
+      </a>
+      </div>
+      <div className="col4">
+      <a href="#">
+        item1
+      </a>
+      <a href="#">
+        item2
+      </a>
+      <a href="#">
+        item3
+      </a>
+      <a href="#">
+        item4
+      </a>
+        </div>
     </footer>
     </div>
   );
